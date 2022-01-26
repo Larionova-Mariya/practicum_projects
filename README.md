@@ -6,7 +6,8 @@
 |[Определение перспективного тарифа для телеком-компании](https://github.com/Larionova-Mariya/practicum_projects/tree/main/tariff_research)|Определение перспективного тарифа на основе анализа поведения пользователей|pandas, math, numpy, matplotlib.pyplot, scipy (stats), seaborn|
 |[Анализ спроса на рейсы авиакомпании](https://github.com/Larionova-Mariya/practicum_projects/tree/main/avia)|Анализ спрса на рейсы в города, где прохдят крупнейшие фестивали|pandas, matplotlib.pyplot|
 |[Анализ бизнес-показателей](https://github.com/Larionova-Mariya/practicum_projects/tree/main/business_perfomance_research)|Определение наиболее выгодных по соотношению цена-качество источников трафика и перспективных когорт клиентов|pandas, numpy, matplotlib.pyplot, seaborn|
-|[Рынок заведений общественного питания Москвы](https://github.com/Larionova-Mariya/practicum_projects/tree/main/user_behavior_research)|Исследование рынка общественного питания с целью открытия собственного заведения|pandas, plotly, matplotlib.pyplot, seaborn|
-| | | |
-| | | |
-| | | |
+|[Аналитика интернет-магазина](https://github.com/Larionova-Mariya/practicum_projects/tree/main/ab_test)|Анализ результатов А/В-теста|pandas, matplotlib.pyplot, numpy, seaborn, scipy|
+|[Рынок заведений общественного питания Москвы](https://github.com/Larionova-Mariya/practicum_projects/tree/main/catering_market_research)|Исследование рынка общественного питания с целью открытия собственного заведения|pandas, plotly, matplotlib.pyplot, seaborn|
+|[Исследование оттока клиентов фитнес-клуба](https://github.com/Larionova-Mariya/practicum_projects/blob/main/fitness_club_customer_churn_study)|Прогнозирование вероятности оттока клиентов|pandas, seaborn, matplotlib.pyplot, sklearn, plotly|
+|[Выявление определяющих успешность игры закономерностей](https://github.com/Larionova-Mariya/practicum_projects/tree/main/game_popularity_survey)|Изучение данных о продажах игр разных жанров и для разных платфрм в трёх регионах, составление портрета пользователя, проверка статистических гипотез|pandas, matplotlib.pyplot, seaborn, scipy|
+|[Анализ поведения пользователей мобильного приложения](https://github.com/Larionova-Mariya/practicum_projects/blob/main/user_behavior_research)|Определение лучшего шрифта для приложения по результатам А/А/В-теста|pandas, datetime, matplotlib.pyplot, numpy, plotly, scipy, math|
